@@ -1,4 +1,4 @@
-I'm an Software Developer and AI Engineer, currently working on LLM applications and integrations.
+I'm a Software Developer and AI Engineer, currently working on LLM applications and integrations.
 
 I spend my time in TypeScript, Go, and Python.
 
